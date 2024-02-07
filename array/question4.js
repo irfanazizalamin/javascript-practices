@@ -5,6 +5,6 @@
  * Expected
  * ['a', 'b', 'c', 'd', 'e', 'f', 'g',]
  */
-const array = ['a', 'b', 'd', 'e', 'g'];
-
+const array = [1, 2, 4, 5, 7];
+ 
 // TODO: bikin algoritma nya
